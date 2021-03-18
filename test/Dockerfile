@@ -1,3 +1,3 @@
 FROM nginx:latest
 
-COPY ./ecs.config /etc/ecs/ecs.config
+COPY ./../ecs.config /etc/ecs/ecs.config
